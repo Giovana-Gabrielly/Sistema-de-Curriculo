@@ -1,0 +1,8 @@
+CREATE TABLE [dbo].[Contato] (
+    [Id]          INT           IDENTITY (1, 1) NOT NULL,
+    [Nome]        VARCHAR (255) NOT NULL,
+    [Email]       VARCHAR (255) NOT NULL,
+    [NomeArquivo] VARCHAR (50)  NOT NULL,
+    [Arquivo]     VARCHAR (MAX) NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
