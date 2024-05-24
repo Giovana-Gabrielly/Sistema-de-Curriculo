@@ -52,4 +52,4 @@
 
 ## Iniciar o site
 
-> Abra o arquivo `index.html` no seu navegador para ter cesse a todo o sistema.
+> Cole a URL `https://giovana-gabrielly.github.io/sistema-de-curriculo/WebApplication1/View/index.html` na barra de pesquisa do seu navegador para ter acesso ao sistema.
